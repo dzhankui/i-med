@@ -16,6 +16,5 @@ if st.button('run'):
 # TODO  add button to download the result of the script into database
 
 
-# To run this:
-# in power shell:
+# To run this in power shell:
 # streamlit run stlit.py
